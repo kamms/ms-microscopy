@@ -1,0 +1,51 @@
+Bait	Bait ID	Organelle 	size 	Organelles Cross talk	Image 	Application
+TBG1	P23258	Centrosome	0	0	0	d
+H31	P68431	Chromatin	0	0	0	d
+GOGA2	Q08379	Golgi 	0	0	0	d
+EEA1	Q15075	Endosome 	0	0	0	d
+CALX	P27824	Endoplasmic Reticulum 	0	0	0	d
+HSP7C	P11142	Exosomes	0	0	0	d
+RAB9A	P51151	Endosome	0	0	0	d
+LAMP1	P11279	Lysosome	0	0	0	d
+TBA1A	Q71U36	Microtubule	0	0	0	d
+AIFM1C	O95831	Mitochondria 	0	0	0	d
+LMNA	P02545	Nuclear Envelope	0	0	0	d
+FBRL	P22087	Nucleolus	0	0	0	d
+CATA	P04040	Peroxisome	0	0	0	d
+EZR	P15311	Plasma Membrane 	0	0	0	d
+PSA1	P25786	Proteasome	0	0	0	d
+RAB11A	P62491	Endosome	0	0	0	d
+TGOLN2	O43493	Golgi	0	0	0	d
+MLLT4	P55196	Cell junction	0	0	0	d
+TJP2	Q9UDY2	Cell junction	0	0	0	d
+CCDC14	Q49A88	centrosome	0	0	0	d
+DCTN2	Q13561	centrosome	0	0	0	d
+PAFAH1B1	P43034	centrosome	0	0	0	d
+RPN1	P04843	endoplasmic reticulum	0	0	0	d
+RPN2	P04844	endoplasmic reticulum	0	0	0	d
+CALR3	Q96L12	Endoplasmic reticulum	0	0	0	d
+PDIA4	P13667	endoplasmic reticulum	0	0	0	d
+ANKFY1	Q9P2R3	endosome	0	0	0	d
+CAV1	Q03135	Golgi	0	0	0	d
+ZFPL1	O95159	Golgi	0	0	0	d
+KRT18	P05783	Intermediate filaments	0	0	0	d
+KRT19	P08727	Intermediate filaments	0	0	0	d
+KRT8	P05787	Intermediate filaments	0	0	0	d
+LAMP2	P13473	lysosome 	0	0	0	d
+CAMSAP2	Q08AD1	Microtubule	0	0	0	d
+TUBA4A	P68366	Microtubule	0	0	0	d
+TUBB	P07437	Microtubule	0	0	0	d
+LMNB1	P20700	Nuclear envelope	0	0	0	d
+NIFK	Q9BYG3	Nucleolus	0	0	0	d
+NOP56	O00567	Nucleolus	0	0	0	d
+HNRNPA1	P09651	Nucleoplasm	0	0	0	d
+PARP1	P09874	Nucleoplasm	0	0	0	d
+AGPS	O00116	peroxisome	0	0	0	d
+PEX3	P56589	Peroxisome	0	0	0	d
+ATG12	O94817	Peroxisome 	0	0	0	d
+ANK3	Q12955	plasma membrane	0	0	0	d
+STX4	Q12846	plasma membrane	0	0	0	d
+LCK	P06239	plasma membrane	0	0	0	d
+ACTB	P60709	actin cytoskeleton	0	0	0	d
+43717	Q9UHD8	actin cytoskeleton	0	0	0	d
+ACTR2	P61160	actin cytoskeleton	0	0	0	d

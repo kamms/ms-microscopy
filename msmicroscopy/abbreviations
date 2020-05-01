@@ -1,0 +1,28 @@
+Organelle	Abbreviation	Color
+Centrosome	CEN	#483c46
+Chromatin	CHR	#417b5a
+Cis-Golgi	CG	#3c6e71
+Endosome	END	#bcaf9c
+Endoplasmic Reticulum	ER	#5e548e
+Exosomes	EXO	#001EFD
+Lysosome	LYS	#ffbc42
+Microtubule	MIC	#f0f3bd
+Mitochondria	MT	#000000
+Nuclear Envelope	NE	#9C1251
+Nucleolus	NUC	#05668d
+Peroxisome	PER	#7ABA1D
+Plasma Membrane	PM	#00FFB8
+Proteasome	PRO	#F0FF00
+Ribosome	RIB	#FF0000
+Trans-Golgi	TG	#C9D5E7
+Golgi	GOL	#828a1f
+Nucleus	NUC	#000000
+Golgi-endosome system	GES	#000000
+Cytoskeleton	CSK	#000000
+cilia	CIL	#000000
+Others	OTH	#000000
+Unknown	UKN	#000000
+actin cytoskeleton	ACT	#000000
+cell junction	JUNC	#000000
+intermediate filaments	INTF	#000000
+nucleoplasm	NUCPL	#000000
