@@ -1,0 +1,36 @@
+Size of training set: actin cytoskeleton: 7653.5
+actin cytoskeleton unique: 876.5
+peroxisome: 4766.25
+peroxisome unique: 965.5
+mitochondria: 2363.0
+mitochondria unique: 1186.75
+plasma membrane: 15869.25
+plasma membrane unique: 993.5
+endosome: 17978.5
+endosome unique: 898.625
+endoplasmic reticulum: 10236.0
+endoplasmic reticulum unique: 1331.5
+microtubule: 10970.75
+microtubule unique: 3951.7083333333335
+centrosome: 4384.25
+centrosome unique: 367.5
+nucleolus: 14354.25
+nucleolus unique: 1293.1666666666667
+golgi: 11632.5
+golgi unique: 974.0
+chromatin: 2868.75
+chromatin unique: 1242.5
+nucleoplasm: 12988.0
+nucleoplasm unique: 7353.25
+exosomes: 1594.25
+exosomes unique: 899.25
+intermediate filaments: 11062.0
+intermediate filaments unique: 1913.4999999999998
+lysosome: 13030.25
+lysosome unique: 751.75
+nuclear envelope: 8780.25
+nuclear envelope unique: 1113.0
+proteasome: 566.75
+proteasome unique: 279.75
+cell junction: 1690.0
+cell junction unique: 266.0
