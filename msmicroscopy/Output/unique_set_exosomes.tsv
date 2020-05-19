@@ -1,15 +1,15 @@
-o95757	{'bait': 'hsp7c', 'prey': 'o95757', 'avgspec': '50'}
-p08243	{'bait': 'hsp7c', 'prey': 'p08243', 'avgspec': '9'}
-p09496	{'bait': 'hsp7c', 'prey': 'p09496', 'avgspec': '4.5'}
-p11142	{'bait': 'hsp7c', 'prey': 'p11142', 'avgspec': '555.75'}
-p34931	{'bait': 'hsp7c', 'prey': 'p34931', 'avgspec': '125.5'}
-p54619	{'bait': 'hsp7c', 'prey': 'p54619', 'avgspec': '5'}
-q13557	{'bait': 'hsp7c', 'prey': 'q13557', 'avgspec': '3.5'}
-q5h9r7	{'bait': 'hsp7c', 'prey': 'q5h9r7', 'avgspec': '12.25'}
-q92598	{'bait': 'hsp7c', 'prey': 'q92598', 'avgspec': '85.75'}
-q9bqc3	{'bait': 'hsp7c', 'prey': 'q9bqc3', 'avgspec': '3.75'}
-q9bwh6	{'bait': 'hsp7c', 'prey': 'q9bwh6', 'avgspec': '4'}
-q9bzg8	{'bait': 'hsp7c', 'prey': 'q9bzg8', 'avgspec': '2.5'}
-q9nzl4	{'bait': 'hsp7c', 'prey': 'q9nzl4', 'avgspec': '17'}
-q9ubb4	{'bait': 'hsp7c', 'prey': 'q9ubb4', 'avgspec': '7.25'}
-q9ul15	{'bait': 'hsp7c', 'prey': 'q9ul15', 'avgspec': '13.5'}
+p11142	555.75
+p34931	125.5
+q92598	85.75
+o95757	50.0
+q9nzl4	17.0
+q9ul15	13.5
+q5h9r7	12.25
+p08243	9.0
+q9ubb4	7.25
+p54619	5.0
+p09496	4.5
+q9bwh6	4.0
+q9bqc3	3.75
+q13557	3.5
+q9bzg8	2.5

@@ -1,110 +1,124 @@
-a4d1p6	{'bait': 'rab9a', 'prey': 'a4d1p6', 'avgspec': '8.5'}
-o15021	{'bait': 'ankfy1', 'prey': 'o15021', 'avgspec': '2'}
-q14185	{'bait': 'ankfy1', 'prey': 'q14185', 'avgspec': '2.5'}
-q5t1m5	{'bait': 'rab9a', 'prey': 'q5t1m5', 'avgspec': '8'}
-q96py6	{'bait': 'ankfy1', 'prey': 'q96py6', 'avgspec': '7.5'}
-o43314	{'bait': 'eea1', 'prey': 'o43314', 'avgspec': '7.75'}
-q5vyk3	{'bait': 'eea1', 'prey': 'q5vyk3', 'avgspec': '2.75'}
-q8wxa3	{'bait': 'rab9a', 'prey': 'q8wxa3', 'avgspec': '8.5'}
-a0a024rbs4	{'bait': 'rab9a', 'prey': 'a0a024rbs4', 'avgspec': '3'}
-o00399	{'bait': 'rab11a', 'prey': 'o00399', 'avgspec': '2'}
-o00522	{'bait': 'rab11a', 'prey': 'o00522', 'avgspec': '4'}
-o15405	{'bait': 'rab11a', 'prey': 'o15405', 'avgspec': '2'}
-o60239	{'bait': 'rab11a', 'prey': 'o60239', 'avgspec': '6'}
-o60879	{'bait': 'rab11a', 'prey': 'o60879', 'avgspec': '13'}
-o75096	{'bait': 'rab11a', 'prey': 'o75096', 'avgspec': '7'}
-o75154	{'bait': 'rab11a', 'prey': 'o75154', 'avgspec': '2.5'}
-p08183	{'bait': 'rab11a', 'prey': 'p08183', 'avgspec': '4'}
-p0dpb3	{'bait': 'rab11a', 'prey': 'p0dpb3', 'avgspec': '10'}
-p15927	{'bait': 'rab11a', 'prey': 'p15927', 'avgspec': '4.75'}
-p18084	{'bait': 'rab11a', 'prey': 'p18084', 'avgspec': '8'}
-p42025	{'bait': 'rab11a', 'prey': 'p42025', 'avgspec': '5.75'}
-p43005	{'bait': 'rab11a', 'prey': 'p43005', 'avgspec': '5'}
-p51148	{'bait': 'rab11a', 'prey': 'p51148', 'avgspec': '1.75'}
-p51784	{'bait': 'rab11a', 'prey': 'p51784', 'avgspec': '23.5'}
-p55899	{'bait': 'rab11a', 'prey': 'p55899', 'avgspec': '2'}
-p62633	{'bait': 'rab11a', 'prey': 'p62633', 'avgspec': '3.75'}
-p78348	{'bait': 'rab11a', 'prey': 'p78348', 'avgspec': '2'}
-q00059	{'bait': 'rab11a', 'prey': 'q00059', 'avgspec': '2.5'}
-q05dh4	{'bait': 'rab11a', 'prey': 'q05dh4', 'avgspec': '2.5'}
-q12982	{'bait': 'rab11a', 'prey': 'q12982', 'avgspec': '8'}
-q13635	{'bait': 'rab11a', 'prey': 'q13635', 'avgspec': '3.5'}
-q15599	{'bait': 'rab11a', 'prey': 'q15599', 'avgspec': '2.5'}
-q2kht3	{'bait': 'rab11a', 'prey': 'q2kht3', 'avgspec': '3'}
-q2nld0	{'bait': 'rab9a', 'prey': 'q2nld0', 'avgspec': '13.5'}
-q59fe7	{'bait': 'rab11a', 'prey': 'q59fe7', 'avgspec': '15.5'}
-q59fg2	{'bait': 'rab11a', 'prey': 'q59fg2', 'avgspec': '2'}
-q5ebl4	{'bait': 'rab11a', 'prey': 'q5ebl4', 'avgspec': '3.5'}
-q5r372	{'bait': 'rab9a', 'prey': 'q5r372', 'avgspec': '3'}
-q5ta12	{'bait': 'rab11a', 'prey': 'q5ta12', 'avgspec': '3.5'}
-q6p499	{'bait': 'rab11a', 'prey': 'q6p499', 'avgspec': '3.5'}
-q6ulp2	{'bait': 'rab11a', 'prey': 'q6ulp2', 'avgspec': '28'}
-q6znj1	{'bait': 'rab11a', 'prey': 'q6znj1', 'avgspec': '9'}
-q6zqn7	{'bait': 'rab11a', 'prey': 'q6zqn7', 'avgspec': '3.5'}
-q6zut9	{'bait': 'rab11a', 'prey': 'q6zut9', 'avgspec': '41.5'}
-q86w33	{'bait': 'rab11a', 'prey': 'q86w33', 'avgspec': '2'}
-q8iyu2	{'bait': 'rab11a', 'prey': 'q8iyu2', 'avgspec': '7'}
-q8iz41	{'bait': 'rab11a', 'prey': 'q8iz41', 'avgspec': '3.5'}
-q8izq1	{'bait': 'rab11a', 'prey': 'q8izq1', 'avgspec': '2.5'}
-q8n573	{'bait': 'rab9a', 'prey': 'q8n573', 'avgspec': '3'}
-q8n9m5	{'bait': 'rab11a', 'prey': 'q8n9m5', 'avgspec': '3'}
-q8n9u0	{'bait': 'rab11a', 'prey': 'q8n9u0', 'avgspec': '3.5'}
-q8nc59	{'bait': 'rab11a', 'prey': 'q8nc59', 'avgspec': '3'}
-q8tag9	{'bait': 'rab11a', 'prey': 'q8tag9', 'avgspec': '25.5'}
-q8tbn0	{'bait': 'rab11a', 'prey': 'q8tbn0', 'avgspec': '6'}
-q8tdj6	{'bait': 'rab11a', 'prey': 'q8tdj6', 'avgspec': '5.5'}
-q8tdw5	{'bait': 'rab11a', 'prey': 'q8tdw5', 'avgspec': '6'}
-q8wwl2	{'bait': 'rab11a', 'prey': 'q8wwl2', 'avgspec': '5'}
-q96c24	{'bait': 'rab11a', 'prey': 'q96c24', 'avgspec': '4'}
-q96cn4	{'bait': 'rab11a', 'prey': 'q96cn4', 'avgspec': '3.5'}
-q96ii5	{'bait': 'rab11a', 'prey': 'q96ii5', 'avgspec': '2.5'}
-q96kp1	{'bait': 'rab11a', 'prey': 'q96kp1', 'avgspec': '21.5'}
-q96n83	{'bait': 'rab11a', 'prey': 'q96n83', 'avgspec': '3'}
-q96qf0	{'bait': 'rab11a', 'prey': 'q96qf0', 'avgspec': '12.5'}
-q99835	{'bait': 'rab11a', 'prey': 'q99835', 'avgspec': '7'}
-q9bsw2	{'bait': 'rab11a', 'prey': 'q9bsw2', 'avgspec': '7'}
-q9bva1	{'bait': 'rab11a', 'prey': 'q9bva1', 'avgspec': '44'}
-q9bxf6	{'bait': 'rab11a', 'prey': 'q9bxf6', 'avgspec': '11.25'}
-q9bzq8	{'bait': 'rab9a', 'prey': 'q9bzq8', 'avgspec': '2'}
-q9h0b6	{'bait': 'rab11a', 'prey': 'q9h0b6', 'avgspec': '16'}
-q9h1h9	{'bait': 'rab11a', 'prey': 'q9h1h9', 'avgspec': '5.5'}
-q9npr5	{'bait': 'rab11a', 'prey': 'q9npr5', 'avgspec': '21.5'}
-q9ns62	{'bait': 'rab11a', 'prey': 'q9ns62', 'avgspec': '3.5'}
-q9nv70	{'bait': 'rab11a', 'prey': 'q9nv70', 'avgspec': '12.5'}
-q9p2d3	{'bait': 'rab11a', 'prey': 'q9p2d3', 'avgspec': '9.5'}
-q9ubg0	{'bait': 'rab11a', 'prey': 'q9ubg0', 'avgspec': '6'}
-q9uj41	{'bait': 'rab11a', 'prey': 'q9uj41', 'avgspec': '2.5'}
-q9uli3	{'bait': 'rab11a', 'prey': 'q9uli3', 'avgspec': '3.5'}
-q9ulv0	{'bait': 'rab11a', 'prey': 'q9ulv0', 'avgspec': '32'}
-q9upt5	{'bait': 'rab11a', 'prey': 'q9upt5', 'avgspec': '17.5'}
-q9y2d4	{'bait': 'rab11a', 'prey': 'q9y2d4', 'avgspec': '2.5'}
-o15504	{'bait': 'rab9a', 'prey': 'o15504', 'avgspec': '3.5'}
-o43504	{'bait': 'rab9a', 'prey': 'o43504', 'avgspec': '2.5'}
-o95747	{'bait': 'rab9a', 'prey': 'o95747', 'avgspec': '2'}
-p10515	{'bait': 'rab9a', 'prey': 'p10515', 'avgspec': '2.25'}
-p12235	{'bait': 'rab9a', 'prey': 'p12235', 'avgspec': '15'}
-p24386	{'bait': 'rab9a', 'prey': 'p24386', 'avgspec': '8'}
-p31150	{'bait': 'rab9a', 'prey': 'p31150', 'avgspec': '6.5'}
-p32019	{'bait': 'rab9a', 'prey': 'p32019', 'avgspec': '3.5'}
-p35244	{'bait': 'rab9a', 'prey': 'p35244', 'avgspec': '6'}
-p37108	{'bait': 'rab9a', 'prey': 'p37108', 'avgspec': '2.5'}
-q13740	{'bait': 'rab9a', 'prey': 'q13740', 'avgspec': '2.5'}
-q15021	{'bait': 'rab9a', 'prey': 'q15021', 'avgspec': '2'}
-q15293	{'bait': 'rab9a', 'prey': 'q15293', 'avgspec': '2.5'}
-q2taz0	{'bait': 'rab9a', 'prey': 'q2taz0', 'avgspec': '6.5'}
-q7l523	{'bait': 'rab9a', 'prey': 'q7l523', 'avgspec': '5.5'}
-q8iwe5	{'bait': 'rab9a', 'prey': 'q8iwe5', 'avgspec': '13.5'}
-q969f9	{'bait': 'rab9a', 'prey': 'q969f9', 'avgspec': '3.25'}
-q96b45	{'bait': 'rab9a', 'prey': 'q96b45', 'avgspec': '3.25'}
-q96fh0	{'bait': 'rab9a', 'prey': 'q96fh0', 'avgspec': '2.25'}
-q96j02	{'bait': 'rab9a', 'prey': 'q96j02', 'avgspec': '2.5'}
-q96s15	{'bait': 'rab9a', 'prey': 'q96s15', 'avgspec': '4.5'}
-q9bqd3	{'bait': 'rab9a', 'prey': 'q9bqd3', 'avgspec': '4.5'}
-q9h270	{'bait': 'rab9a', 'prey': 'q9h270', 'avgspec': '6'}
-q9h9s3	{'bait': 'rab9a', 'prey': 'q9h9s3', 'avgspec': '2'}
-q9nql2	{'bait': 'rab9a', 'prey': 'q9nql2', 'avgspec': '7.5'}
-q9nzd8	{'bait': 'rab9a', 'prey': 'q9nzd8', 'avgspec': '2.5'}
-q9y2q5	{'bait': 'rab9a', 'prey': 'q9y2q5', 'avgspec': '4'}
-q9y519	{'bait': 'rab9a', 'prey': 'q9y519', 'avgspec': '3'}
-q9y5w7	{'bait': 'rab9a', 'prey': 'q9y5w7', 'avgspec': '14'}
-q9y5w8	{'bait': 'rab9a', 'prey': 'q9y5w8', 'avgspec': '15'}
+q96py6	7.5
+p42892	12.5
+q5t1m5	5.5
+q14185	2.5
+a4d1p6	5.25
+o15021	2.0
+o43314	7.75
+q8wxa3	7.375
+q5vyk3	2.75
+q5r372	23.75
+q9bva1	44.0
+q6zut9	41.5
+q9ulv0	32.0
+q6ulp2	28.0
+q8tag9	25.5
+p51784	23.5
+q96kp1	21.5
+q9npr5	21.5
+q9upt5	17.5
+q2nld0	15.0
+q9h0b6	16.0
+q59fe7	15.5
+o60879	13.0
+q96qf0	12.5
+q9nv70	12.5
+q9bxf6	11.25
+p05198	10.0
+p0dpb3	10.0
+q9p2d3	9.5
+q6znj1	9.0
+p18084	8.0
+q12982	8.0
+o75096	7.0
+q8iyu2	7.0
+q99835	7.0
+q9bsw2	7.0
+q58ex2	6.5
+q8n573	4.75
+o60239	6.0
+q8tbn0	6.0
+q8tdw5	6.0
+q9ubg0	6.0
+q9ukd2	6.0
+p42025	5.75
+q53ye2	5.5
+q8tdj6	5.5
+q9h1h9	5.5
+q9brj6	4.75
+p43005	5.0
+q8wwl2	5.0
+q9nqt8	5.0
+p15927	4.75
+p20042	4.375
+a0a024rbs4	3.5
+o00522	4.0
+p08183	4.0
+q96c24	4.0
+p62633	3.75
+q13635	3.5
+q5ebl4	3.5
+q5ta12	3.5
+q6p499	3.5
+q6zqn7	3.5
+q8iz41	3.5
+q8n9u0	3.5
+q96cn4	3.5
+q9ns62	3.5
+q9uli3	3.5
+q00577	3.0
+q2kht3	3.0
+q8n9m5	3.0
+q8nc59	3.0
+q96n83	3.0
+q9nuu7	2.375
+o75154	2.5
+o95185	2.5
+q00059	2.5
+q05dh4	2.5
+q15599	2.5
+q8izq1	2.5
+q96ii5	2.5
+q9uj41	2.5
+q9y2d4	2.5
+o00399	2.0
+o15405	2.0
+p55899	2.0
+p78348	2.0
+q59fg2	2.0
+q86w33	2.0
+q9bzq8	2.0
+p51148	1.75
+q969f9	22.0
+p12235	15.0
+q9y5w8	15.0
+q9y5w7	14.0
+q8iwe5	13.5
+p24386	8.0
+q9nql2	7.5
+p31150	6.5
+q2taz0	6.5
+p35244	6.0
+q9h270	6.0
+q7l523	5.5
+p23634	4.5
+q96s15	4.5
+q9bqd3	4.5
+q9y2q5	4.0
+o15504	3.5
+p32019	3.5
+q96b45	3.25
+q9y519	3.0
+o43504	2.5
+p37108	2.5
+q13619	2.5
+q13740	2.5
+q15293	2.5
+q96j02	2.5
+q9nzd8	2.5
+p10515	2.25
+q96fh0	2.25
+o95747	2.0
+q15021	2.0
+q6zvm7	2.0
+q9h9s3	2.0

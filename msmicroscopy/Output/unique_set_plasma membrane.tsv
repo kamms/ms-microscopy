@@ -1,84 +1,91 @@
-o00303	{'bait': 'ank3', 'prey': 'o00303', 'avgspec': '2'}
-p20290	{'bait': 'ank3', 'prey': 'p20290', 'avgspec': '6.5'}
-q5vze5	{'bait': 'ank3', 'prey': 'q5vze5', 'avgspec': '3.5'}
-q6zt60	{'bait': 'ank3', 'prey': 'q6zt60', 'avgspec': '34'}
-q96ii8	{'bait': 'ank3', 'prey': 'q96ii8', 'avgspec': '4'}
-b2r7d3	{'bait': 'ezr', 'prey': 'b2r7d3', 'avgspec': '10.5'}
-b4dic4	{'bait': 'ezr', 'prey': 'b4dic4', 'avgspec': '2'}
-o00418	{'bait': 'ezr', 'prey': 'o00418', 'avgspec': '12'}
-o15056	{'bait': 'ezr', 'prey': 'o15056', 'avgspec': '3'}
-o15116	{'bait': 'ezr', 'prey': 'o15116', 'avgspec': '2.25'}
-o43318	{'bait': 'ezr', 'prey': 'o43318', 'avgspec': '4.5'}
-o60502	{'bait': 'ezr', 'prey': 'o60502', 'avgspec': '6.5'}
-o95163	{'bait': 'ezr', 'prey': 'o95163', 'avgspec': '7.25'}
-o95425	{'bait': 'ezr', 'prey': 'o95425', 'avgspec': '4.75'}
-p10636	{'bait': 'ezr', 'prey': 'p10636', 'avgspec': '4.5'}
-p26038	{'bait': 'ezr', 'prey': 'p26038', 'avgspec': '101.25'}
-p29353	{'bait': 'ezr', 'prey': 'p29353', 'avgspec': '2.75'}
-p46939	{'bait': 'ezr', 'prey': 'p46939', 'avgspec': '89.75'}
-p52306	{'bait': 'ezr', 'prey': 'p52306', 'avgspec': '8.5'}
-p67809	{'bait': 'ezr', 'prey': 'p67809', 'avgspec': '3'}
-q01484	{'bait': 'ezr', 'prey': 'q01484', 'avgspec': '22.25'}
-q12979	{'bait': 'ezr', 'prey': 'q12979', 'avgspec': '2.75'}
-q13480	{'bait': 'ezr', 'prey': 'q13480', 'avgspec': '4'}
-q13613	{'bait': 'ezr', 'prey': 'q13613', 'avgspec': '3'}
-q13884	{'bait': 'ezr', 'prey': 'q13884', 'avgspec': '6.75'}
-q15750	{'bait': 'ezr', 'prey': 'q15750', 'avgspec': '7.5'}
-q16513	{'bait': 'ezr', 'prey': 'q16513', 'avgspec': '7'}
-q2m2i8	{'bait': 'ezr', 'prey': 'q2m2i8', 'avgspec': '4.5'}
-q32p51	{'bait': 'ezr', 'prey': 'q32p51', 'avgspec': '5'}
-q6wcq1	{'bait': 'ezr', 'prey': 'q6wcq1', 'avgspec': '8.5'}
-q7z5l2	{'bait': 'ezr', 'prey': 'q7z5l2', 'avgspec': '2.5'}
-q8wu90	{'bait': 'ezr', 'prey': 'q8wu90', 'avgspec': '3'}
-q96k76	{'bait': 'ezr', 'prey': 'q96k76', 'avgspec': '3.25'}
-q99613	{'bait': 'ezr', 'prey': 'q99613', 'avgspec': '13.5'}
-q99961	{'bait': 'ezr', 'prey': 'q99961', 'avgspec': '11'}
-q9by44	{'bait': 'ezr', 'prey': 'q9by44', 'avgspec': '16.5'}
-q9h788	{'bait': 'ezr', 'prey': 'q9h788', 'avgspec': '1.75'}
-q9nq48	{'bait': 'ezr', 'prey': 'q9nq48', 'avgspec': '2.25'}
-q9nr46	{'bait': 'ezr', 'prey': 'q9nr46', 'avgspec': '11.25'}
-q9nsd9	{'bait': 'ezr', 'prey': 'q9nsd9', 'avgspec': '5.5'}
-q9nvm4	{'bait': 'ezr', 'prey': 'q9nvm4', 'avgspec': '3.25'}
-q9ug63	{'bait': 'ezr', 'prey': 'q9ug63', 'avgspec': '3.25'}
-q9uhb9	{'bait': 'ezr', 'prey': 'q9uhb9', 'avgspec': '11'}
-q9ui30	{'bait': 'ezr', 'prey': 'q9ui30', 'avgspec': '3'}
-q9ulh1	{'bait': 'ezr', 'prey': 'q9ulh1', 'avgspec': '4.75'}
-q9y4h2	{'bait': 'ezr', 'prey': 'q9y4h2', 'avgspec': '3'}
-b3ktt5	{'bait': 'lck', 'prey': 'b3ktt5', 'avgspec': '94'}
-o60229	{'bait': 'lck', 'prey': 'o60229', 'avgspec': '2'}
-p08238	{'bait': 'lck', 'prey': 'p08238', 'avgspec': '128'}
-p21359	{'bait': 'lck', 'prey': 'p21359', 'avgspec': '5'}
-p50570	{'bait': 'lck', 'prey': 'p50570', 'avgspec': '3'}
-p54577	{'bait': 'lck', 'prey': 'p54577', 'avgspec': '5.5'}
-p98174	{'bait': 'lck', 'prey': 'p98174', 'avgspec': '5'}
-q00526	{'bait': 'lck', 'prey': 'q00526', 'avgspec': '7'}
-q02543	{'bait': 'lck', 'prey': 'q02543', 'avgspec': '6'}
-q08752	{'bait': 'lck', 'prey': 'q08752', 'avgspec': '5'}
-q0ij56	{'bait': 'lck', 'prey': 'q0ij56', 'avgspec': '4'}
-q13425	{'bait': 'lck', 'prey': 'q13425', 'avgspec': '2'}
-q13523	{'bait': 'lck', 'prey': 'q13523', 'avgspec': '17.5'}
-q15785	{'bait': 'lck', 'prey': 'q15785', 'avgspec': '2.5'}
-q5jr94	{'bait': 'lck', 'prey': 'q5jr94', 'avgspec': '10.5'}
-q5st80	{'bait': 'lck', 'prey': 'q5st80', 'avgspec': '2'}
-q6p5z2	{'bait': 'lck', 'prey': 'q6p5z2', 'avgspec': '3'}
-q8n5m4	{'bait': 'lck', 'prey': 'q8n5m4', 'avgspec': '2.5'}
-q8tdn4	{'bait': 'lck', 'prey': 'q8tdn4', 'avgspec': '3'}
-q8wz64	{'bait': 'lck', 'prey': 'q8wz64', 'avgspec': '3.5'}
-q96hz0	{'bait': 'lck', 'prey': 'q96hz0', 'avgspec': '2.5'}
-q9nwt8	{'bait': 'lck', 'prey': 'q9nwt8', 'avgspec': '8'}
-q9ui95	{'bait': 'lck', 'prey': 'q9ui95', 'avgspec': '3'}
-q9y2h5	{'bait': 'lck', 'prey': 'q9y2h5', 'avgspec': '4'}
-q9y5s2	{'bait': 'lck', 'prey': 'q9y5s2', 'avgspec': '5'}
-u3kqg0	{'bait': 'lck', 'prey': 'u3kqg0', 'avgspec': '4'}
-p28290	{'bait': 'stx4', 'prey': 'p28290', 'avgspec': '7.5'}
-p36383	{'bait': 'stx4', 'prey': 'p36383', 'avgspec': '4.5'}
-p42702	{'bait': 'stx4', 'prey': 'p42702', 'avgspec': '5.5'}
-q06481	{'bait': 'stx4', 'prey': 'q06481', 'avgspec': '13'}
-q09gn0	{'bait': 'stx4', 'prey': 'q09gn0', 'avgspec': '7.5'}
-q5t5c0	{'bait': 'stx4', 'prey': 'q5t5c0', 'avgspec': '13.5'}
-q6uxm1	{'bait': 'stx4', 'prey': 'q6uxm1', 'avgspec': '3.5'}
-q9btv5	{'bait': 'stx4', 'prey': 'q9btv5', 'avgspec': '9.5'}
-q9bzf9	{'bait': 'stx4', 'prey': 'q9bzf9', 'avgspec': '2.5'}
-q9hcu4	{'bait': 'stx4', 'prey': 'q9hcu4', 'avgspec': '2'}
-q9p2j5	{'bait': 'stx4', 'prey': 'q9p2j5', 'avgspec': '38'}
-q9uls5	{'bait': 'stx4', 'prey': 'q9uls5', 'avgspec': '5'}
+q6zt60	34.0
+p20290	6.5
+o00192	4.0
+q96ii8	4.0
+q5vze5	3.5
+o00303	2.0
+p26038	101.25
+p46939	89.75
+q01484	22.25
+q12955	17.0
+q9by44	16.5
+q99613	13.5
+o00418	12.0
+q9nr46	11.25
+q99961	11.0
+q9uhb9	11.0
+b2r7d3	10.5
+q8n6t3	9.0
+p52306	8.5
+q6wcq1	8.5
+q15750	7.5
+o95163	7.25
+q16513	7.0
+q13884	6.75
+o60502	6.5
+q9h4g0	6.0
+q9nsd9	5.5
+q32p51	5.0
+o95425	4.75
+q9ulh1	4.75
+o43318	4.5
+p10636	4.5
+q2m2i8	4.5
+q13480	4.0
+q96k76	3.25
+q9nvm4	3.25
+q9ug63	3.25
+o15056	3.0
+p67809	3.0
+q13613	3.0
+q8wu90	3.0
+q9ui30	3.0
+q9y4h2	3.0
+p29353	2.75
+q12979	2.75
+q7z5l2	2.5
+o15116	2.25
+q9nq48	2.25
+b4dic4	2.0
+q9h788	1.75
+p08238	128.0
+b3ktt5	94.0
+q13523	17.5
+q5jr94	10.5
+q9nwt8	8.0
+q00526	7.0
+q02543	6.0
+p54577	5.5
+p21359	5.0
+p98174	5.0
+q08752	5.0
+q9y5s2	5.0
+q0ij56	4.0
+q9y2h5	4.0
+u3kqg0	4.0
+q8wz64	3.5
+p50570	3.0
+q6p5z2	3.0
+q8tdn4	3.0
+q9ui95	3.0
+p50226	2.5
+q15785	2.5
+q8n5m4	2.5
+q96hz0	2.5
+o60229	2.0
+q13425	2.0
+q5st80	2.0
+q9p2j5	38.0
+q9h2e6	19.0
+q5t5c0	13.5
+q06481	13.0
+q9btv5	9.5
+p28290	7.5
+q09gn0	7.5
+p42702	5.5
+q9uls5	5.0
+p36383	4.5
+q8nf91	4.0
+q6uxm1	3.5
+q9bzf9	2.5
+q9hcu4	2.0

@@ -1,34 +1,22 @@
-o60299	{'bait': 'mllt4', 'prey': 'o60299', 'avgspec': '12.5'}
-q0vf96	{'bait': 'mllt4', 'prey': 'q0vf96', 'avgspec': '5'}
-q2m3g4	{'bait': 'mllt4', 'prey': 'q2m3g4', 'avgspec': '11.5'}
-q52lw3	{'bait': 'mllt4', 'prey': 'q52lw3', 'avgspec': '2.5'}
-q71h61	{'bait': 'mllt4', 'prey': 'q71h61', 'avgspec': '3'}
-q7z5n4	{'bait': 'mllt4', 'prey': 'q7z5n4', 'avgspec': '2'}
-q86sq0	{'bait': 'mllt4', 'prey': 'q86sq0', 'avgspec': '3'}
-q8ni35	{'bait': 'mllt4', 'prey': 'q8ni35', 'avgspec': '10'}
-q96ne9	{'bait': 'mllt4', 'prey': 'q96ne9', 'avgspec': '2'}
-q9nqu5	{'bait': 'mllt4', 'prey': 'q9nqu5', 'avgspec': '10'}
-q9nrm7	{'bait': 'mllt4', 'prey': 'q9nrm7', 'avgspec': '5'}
-q9p219	{'bait': 'mllt4', 'prey': 'q9p219', 'avgspec': '31'}
-q9p2m7	{'bait': 'tjp2', 'prey': 'q9p2m7', 'avgspec': '10'}
-q9y250	{'bait': 'mllt4', 'prey': 'q9y250', 'avgspec': '15.5'}
-q9y2l6	{'bait': 'mllt4', 'prey': 'q9y2l6', 'avgspec': '3.5'}
-o43639	{'bait': 'tjp2', 'prey': 'o43639', 'avgspec': '3.5'}
-o95067	{'bait': 'tjp2', 'prey': 'o95067', 'avgspec': '3'}
-o95684	{'bait': 'tjp2', 'prey': 'o95684', 'avgspec': '3'}
-p49959	{'bait': 'tjp2', 'prey': 'p49959', 'avgspec': '85.5'}
-p55010	{'bait': 'tjp2', 'prey': 'p55010', 'avgspec': '42'}
-p78362	{'bait': 'tjp2', 'prey': 'p78362', 'avgspec': '17'}
-q0pne2	{'bait': 'tjp2', 'prey': 'q0pne2', 'avgspec': '4'}
-q5t0n5	{'bait': 'tjp2', 'prey': 'q5t0n5', 'avgspec': '7'}
-q86t74	{'bait': 'tjp2', 'prey': 'q86t74', 'avgspec': '6.5'}
-q8ivm0	{'bait': 'tjp2', 'prey': 'q8ivm0', 'avgspec': '4'}
-q96b97	{'bait': 'tjp2', 'prey': 'q96b97', 'avgspec': '3'}
-q96mw1	{'bait': 'tjp2', 'prey': 'q96mw1', 'avgspec': '6.5'}
-q96sb4	{'bait': 'tjp2', 'prey': 'q96sb4', 'avgspec': '14'}
-q9brp8	{'bait': 'tjp2', 'prey': 'q9brp8', 'avgspec': '6'}
-q9h2u1	{'bait': 'tjp2', 'prey': 'q9h2u1', 'avgspec': '3'}
-q9h467	{'bait': 'tjp2', 'prey': 'q9h467', 'avgspec': '3'}
-q9h9i0	{'bait': 'tjp2', 'prey': 'q9h9i0', 'avgspec': '5.5'}
-q9nzi7	{'bait': 'tjp2', 'prey': 'q9nzi7', 'avgspec': '2'}
-q9p2b7	{'bait': 'tjp2', 'prey': 'q9p2b7', 'avgspec': '18.5'}
+p49959	85.5
+p55010	42.0
+q9p2b7	18.5
+p78362	17.0
+q96qz7	16.5
+q96sb4	14.0
+q9p2m7	10.0
+q5t0n5	7.0
+q86t74	6.5
+q96mw1	6.5
+q9brp8	6.0
+q9h9i0	5.5
+q0pne2	4.0
+q8ivm0	4.0
+o43639	3.5
+o95067	3.0
+o95684	3.0
+q96b97	3.0
+q9h2u1	3.0
+q9h467	3.0
+q5srt3	2.5
+q9nzi7	2.0

@@ -1,67 +1,67 @@
-o00255	{'bait': 'h31', 'prey': 'o00255', 'avgspec': '4.5'}
-o00268	{'bait': 'h31', 'prey': 'o00268', 'avgspec': '9.75'}
-o00287	{'bait': 'h31', 'prey': 'o00287', 'avgspec': '2.25'}
-o15355	{'bait': 'h31', 'prey': 'o15355', 'avgspec': '4.5'}
-o60244	{'bait': 'h31', 'prey': 'o60244', 'avgspec': '4'}
-o60306	{'bait': 'h31', 'prey': 'o60306', 'avgspec': '18.25'}
-o75290	{'bait': 'h31', 'prey': 'o75290', 'avgspec': '2.5'}
-o75792	{'bait': 'h31', 'prey': 'o75792', 'avgspec': '2.75'}
-o95239	{'bait': 'h31', 'prey': 'o95239', 'avgspec': '33'}
-p20226	{'bait': 'h31', 'prey': 'p20226', 'avgspec': '2.25'}
-p26583	{'bait': 'h31', 'prey': 'p26583', 'avgspec': '5.25'}
-p35250	{'bait': 'h31', 'prey': 'p35250', 'avgspec': '5.75'}
-p40938	{'bait': 'h31', 'prey': 'p40938', 'avgspec': '8.75'}
-p46100	{'bait': 'h31', 'prey': 'p46100', 'avgspec': '7.75'}
-p49321	{'bait': 'h31', 'prey': 'p49321', 'avgspec': '525'}
-p49642	{'bait': 'h31', 'prey': 'p49642', 'avgspec': '3.5'}
-p49848	{'bait': 'h31', 'prey': 'p49848', 'avgspec': '16'}
-p52701	{'bait': 'h31', 'prey': 'p52701', 'avgspec': '14.75'}
-p54198	{'bait': 'h31', 'prey': 'p54198', 'avgspec': '2.5'}
-p68431	{'bait': 'h31', 'prey': 'p68431', 'avgspec': '24'}
-p78346	{'bait': 'h31', 'prey': 'p78346', 'avgspec': '7'}
-p82979	{'bait': 'h31', 'prey': 'p82979', 'avgspec': '4.5'}
-p83916	{'bait': 'h31', 'prey': 'p83916', 'avgspec': '4.25'}
-q12873	{'bait': 'h31', 'prey': 'q12873', 'avgspec': '41.25'}
-q12996	{'bait': 'h31', 'prey': 'q12996', 'avgspec': '2.5'}
-q13042	{'bait': 'h31', 'prey': 'q13042', 'avgspec': '9.25'}
-q13112	{'bait': 'h31', 'prey': 'q13112', 'avgspec': '4.25'}
-q14676	{'bait': 'h31', 'prey': 'q14676', 'avgspec': '25.25'}
-q14980	{'bait': 'h31', 'prey': 'q14980', 'avgspec': '94.5'}
-q15291	{'bait': 'h31', 'prey': 'q15291', 'avgspec': '6.25'}
-q15542	{'bait': 'h31', 'prey': 'q15542', 'avgspec': '14.75'}
-q15776	{'bait': 'h31', 'prey': 'q15776', 'avgspec': '3.25'}
-q16594	{'bait': 'h31', 'prey': 'q16594', 'avgspec': '4.5'}
-q2tay7	{'bait': 'h31', 'prey': 'q2tay7', 'avgspec': '2.25'}
-q5tbb1	{'bait': 'h31', 'prey': 'q5tbb1', 'avgspec': '4'}
-q6p1x5	{'bait': 'h31', 'prey': 'q6p1x5', 'avgspec': '4.75'}
-q7z5k2	{'bait': 'h31', 'prey': 'q7z5k2', 'avgspec': '23'}
-q86tj2	{'bait': 'h31', 'prey': 'q86tj2', 'avgspec': '2.25'}
-q86u86	{'bait': 'h31', 'prey': 'q86u86', 'avgspec': '15.75'}
-q8ixm2	{'bait': 'h31', 'prey': 'q8ixm2', 'avgspec': '6.5'}
-q8n806	{'bait': 'h31', 'prey': 'q8n806', 'avgspec': '25.75'}
-q8nem2	{'bait': 'h31', 'prey': 'q8nem2', 'avgspec': '5.75'}
-q8nem7	{'bait': 'h31', 'prey': 'q8nem7', 'avgspec': '3.75'}
-q8wx92	{'bait': 'h31', 'prey': 'q8wx92', 'avgspec': '3.5'}
-q92830	{'bait': 'h31', 'prey': 'q92830', 'avgspec': '5.75'}
-q96de5	{'bait': 'h31', 'prey': 'q96de5', 'avgspec': '2.75'}
-q96jm7	{'bait': 'h31', 'prey': 'q96jm7', 'avgspec': '2.75'}
-q96jp5	{'bait': 'h31', 'prey': 'q96jp5', 'avgspec': '2.5'}
-q96kq7	{'bait': 'h31', 'prey': 'q96kq7', 'avgspec': '23'}
-q96nb3	{'bait': 'h31', 'prey': 'q96nb3', 'avgspec': '6.25'}
-q99575	{'bait': 'h31', 'prey': 'q99575', 'avgspec': '6.5'}
-q9btc8	{'bait': 'h31', 'prey': 'q9btc8', 'avgspec': '11'}
-q9bxs6	{'bait': 'h31', 'prey': 'q9bxs6', 'avgspec': '3.75'}
-q9bye7	{'bait': 'h31', 'prey': 'q9bye7', 'avgspec': '3'}
-q9h1a4	{'bait': 'h31', 'prey': 'q9h1a4', 'avgspec': '14.25'}
-q9h2p0	{'bait': 'h31', 'prey': 'q9h2p0', 'avgspec': '54.5'}
-q9npf5	{'bait': 'h31', 'prey': 'q9npf5', 'avgspec': '9'}
-q9npg3	{'bait': 'h31', 'prey': 'q9npg3', 'avgspec': '2.5'}
-q9npi1	{'bait': 'h31', 'prey': 'q9npi1', 'avgspec': '2.75'}
-q9nvp2	{'bait': 'h31', 'prey': 'q9nvp2', 'avgspec': '6'}
-q9ubw7	{'bait': 'h31', 'prey': 'q9ubw7', 'avgspec': '18'}
-q9ugu5	{'bait': 'h31', 'prey': 'q9ugu5', 'avgspec': '6.25'}
-q9ujx4	{'bait': 'h31', 'prey': 'q9ujx4', 'avgspec': '6.5'}
-q9umn6	{'bait': 'h31', 'prey': 'q9umn6', 'avgspec': '22.25'}
-q9y294	{'bait': 'h31', 'prey': 'q9y294', 'avgspec': '6.5'}
-q9y4a5	{'bait': 'h31', 'prey': 'q9y4a5', 'avgspec': '6.75'}
-q9y6j9	{'bait': 'h31', 'prey': 'q9y6j9', 'avgspec': '4.25'}
+p49321	525.0
+q14980	94.5
+q9h2p0	54.5
+q12873	41.25
+o95239	33.0
+q8n806	25.75
+q14676	25.25
+p68431	24.0
+q7z5k2	23.0
+q96kq7	23.0
+q9umn6	22.25
+o60306	18.25
+q9ubw7	18.0
+p49848	16.0
+q86u86	15.75
+p52701	14.75
+q15542	14.75
+q9h1a4	14.25
+q9btc8	11.0
+o00268	9.75
+q13042	9.25
+q9npf5	9.0
+p40938	8.75
+p46100	7.75
+p78346	7.0
+q9y4a5	6.75
+q8ixm2	6.5
+q99575	6.5
+q9ujx4	6.5
+q9y294	6.5
+q15291	6.25
+q96nb3	6.25
+q9ugu5	6.25
+q9nvp2	6.0
+p35250	5.75
+q8nem2	5.75
+q92830	5.75
+p26583	5.25
+q6p1x5	4.75
+o00255	4.5
+o15355	4.5
+p82979	4.5
+q16594	4.5
+p83916	4.25
+q13112	4.25
+q9y6j9	4.25
+o60244	4.0
+q5tbb1	4.0
+q8nem7	3.75
+q9bxs6	3.75
+p49642	3.5
+q8wx92	3.5
+q15776	3.25
+q9bye7	3.0
+o75792	2.75
+q96de5	2.75
+q96jm7	2.75
+q9npi1	2.75
+o75290	2.5
+p54198	2.5
+q12996	2.5
+q96jp5	2.5
+q9npg3	2.5
+o00287	2.25
+p20226	2.25
+q2tay7	2.25
+q86tj2	2.25
