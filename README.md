@@ -4,10 +4,11 @@ MS-microscopy uses a comprehensive subcellular location specific reference data 
 ## System requirements
 MS-microscopy is not operating-system specific, but has only been tested on windows 10 and requires python 3 and R 3.5.
 
-python 3.7:
-- with matplotlib and numpy
-R 3.5:
-- with shiny and ggplot2
+- python 3.7:
+  - with matplotlib and numpy
+
+- R 3.5:
+  - with shiny and ggplot2
 
 ## Included files
 msmicroscopy -directory contains all files needed to run the msmic.py script within, as well as example output. This directory The output directory also contains sample output made with the included input files.
