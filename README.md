@@ -38,3 +38,6 @@ In the specified output directory:
 - unique_set -files contain unique preysets for each reference localization.
 - In for_R_server -directory, reference_data.csv can be used as a reference database for R server.
 
+## License
+
+This project is covered under the [Apache 2.0 License](https://github.com/kamms/ms-microscopy/blob/master/LICENSE)
