@@ -40,7 +40,8 @@ with open(training_set_file) as fil:
             size = line[3].strip().lower()
             crosstalk = line[4].strip().lower().split(", ")
             training_set.update({name: {"name": name, "uniprot": uniprot_id, "organelle": organelle, "crosstalk": crosstalk, "size": size}})
-
+            
+# Read in the database file
 datafilelines = []
 with open(data_set_file) as fil:
     datafilelines.append(next(fil))
@@ -50,17 +51,13 @@ with open(data_set_file) as fil:
             continue
         else:
             datafilelines.append(line)
-            
-with open(data_only) as fil:
-    next(fil)
-    for line in fil:
-        datafilelines.append(line)
 
-dataset = {}
-headers = datafilelines[0].lower().strip("\n").split("\t")
+sepchr = '\t'
+headers = datafilelines[0].lower().strip("\n").split(sepchr)
 needed_headers = set(["bait", "prey", "avgspec"])    
+dataset = {}     
 for line in datafilelines[1:]:
-    line = line.lower().strip("\n").split("\t")
+    line = line.lower().strip("\n").split(sepchr)
     lindic = {}
     for i, h in enumerate(headers):
         if len(line) > i:
@@ -71,6 +68,30 @@ for line in datafilelines[1:]:
     else:
         dataset.update({line[0]: {line[1]: lindic}})
         
+# Read in the experiment data file
+datafilelines = []
+if 'csv' == data_only.split('.')[-1]:
+    sepchr = ',' 
+with open(data_only) as fil:
+    datafilelines.append(next(fil))
+    for line in fil:
+        datafilelines.append(line)
+        
+headers = datafilelines[0].lower().strip("\n").split(sepchr)
+needed_headers = set(["bait", "prey", "avgspec"])    
+        
+for line in datafilelines[1:]:
+    line = line.lower().strip("\n").split(sepchr)
+    lindic = {}
+    for i, h in enumerate(headers):
+        if len(line) > i:
+            if h in needed_headers:
+                lindic.update({h: line[i]})
+    if line[0] in dataset:
+        dataset[line[0]].update({line[1]: lindic})
+    else:
+        dataset.update({line[0]: {line[1]: lindic}})
+            
 localizations = {}
 testset = {}
 
@@ -387,9 +408,13 @@ with PdfPages(os.path.join(output_folder, "Figures_" + output_folder + ".pdf")) 
         ax.xaxis.set_major_formatter(ticker.NullFormatter())
         
         thetaticks = np.arange(0, 360, 360/N)
-        temp = ax.set_thetagrids(thetaticks)
-        for t in temp:
-            t.linestyle = "dotted"
+        
+        
+        # TODO: implement this line style change again.
+        #temp = ax.set_thetagrids(thetaticks)
+        #print(temp)
+        #for t in temp:
+            #t.linestyle = "dotted"
         
         for tick in ax.xaxis.get_minor_ticks():
             tick.tick1line.set_markersize(0)
@@ -397,7 +422,7 @@ with PdfPages(os.path.join(output_folder, "Figures_" + output_folder + ".pdf")) 
             tick.label1.set_horizontalalignment("center")
         minorticklabels = [""]
         for l in keyorder:
-            minorticklabels.append("")
+            #minorticklabels.append("")
             minorticklabels.append(abbreviations[l]["abb"])
         
         ax.set_xticklabels(minorticklabels, minor=True)
