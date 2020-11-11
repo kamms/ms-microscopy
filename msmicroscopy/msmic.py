@@ -34,12 +34,36 @@ if not os.path.isdir(output_folder):
 database['loc'] = database.apply(lambda x: identifiers[identifiers['Bait'] == x['Bait']].iloc[0]['Organelle '].lower().strip().capitalize(),axis=1)
 database['uniqueforloc'] = database.apply(lambda x: len(database[database['Prey']==x['Prey']]['loc'].unique())==1 ,axis=1)
 database = database[database['uniqueforloc']]
+
+# The code below removes duplicate preys from localizations, and substitutes them with one entry with an average AvgSpec value from the two (or more) prior entries. 
+nrows = []
+done = set()
+droprows = []
+for index,row in database.iterrows(): 
+    pdb = database[(database['loc']==row['loc']) & (database['Prey']==row['Prey'])]
+    if pdb.shape[0] > 1: 
+        donestring = pdb.iloc[0]['loc'] + '-' + pdb.iloc[0]['Prey']
+        if donestring in done: continue
+        done.add(donestring)
+        
+        ndic = {}
+        for c in pdb.columns:
+            if type(row[c])==float or type(row[c]) == int: 
+                ndic.update({c: sum(pdb[c])/pdb.shape[0]})
+            else: 
+                ndic.update({c: pdb.iloc[0][c]})
+        nrows.append(ndic)
+        
+        droprows.extend(list(pdb.index))
+database = database.drop(droprows).append(nrows,ignore_index=True)
+
+
 database['locnorm'] = database.apply(lambda row: 
                                     row['AvgSpec'] / database[(database['loc']==row['loc'])]['AvgSpec'].sum(),
                                     axis = 1
                                     )    
 database.to_csv(os.path.join(output_folder, 'unique localization sets.csv'))
-
+database.rename(columns={'loc': 'Localization'})['Bait Prey AvgSpec Localization'.split()].to_csv(os.path.join(output_folder, 'database_for_online.csv'),index=False)
 with open(os.path.join(output_folder,'locsums.csv'),'w') as fil: 
     fil.write('localization,localization sum\n')
     for loc in database['loc'].unique(): 
@@ -74,6 +98,7 @@ loc_fin = pd.DataFrame(index=loc_index)
 for c in loc_raw.columns: 
     loc_fin[c] = loc_raw[c]/loc_raw[c].max()
 pd.DataFrame(columns = loc_origins,data=loc_origin_data).to_csv(os.path.join(output_folder, 'bait localization preys.csv'))
+loc_fin.to_csv(os.path.join(output_folder,'Results.csv'))
 
 """
 Here we just load abbreviations for localizations. 
