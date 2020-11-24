@@ -25,7 +25,13 @@ abbfile = sys.argv[3]
 database = pd.read_csv(trainingdata,sep='\t')
 identifiers = pd.read_csv(training_identifiers,sep='\t')
 checkdata = pd.read_csv(inputdatafile)
-checkdata = checkdata[['Bait','Prey','AvgSpec']]
+try: 
+    checkdata = checkdata[['Bait','Prey','AvgSpec']]
+except KeyError: 
+    checkdata = pd.read_csv(inputdatafile,sep='\t')
+    print(checkdata.head())
+    checkdata = checkdata[['Bait','Prey','AvgSpec']]
+
 database['Prey'] = database['Prey'].str.upper()
 checkdata['Prey'] = checkdata['Prey'].str.upper()
 if not os.path.isdir(output_folder): 
