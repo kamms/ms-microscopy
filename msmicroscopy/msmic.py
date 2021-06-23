@@ -104,6 +104,7 @@ loc_fin = pd.DataFrame(index=loc_index)
 for c in loc_raw.columns: 
     loc_fin[c] = loc_raw[c]/loc_raw[c].max()
 pd.DataFrame(columns = loc_origins,data=loc_origin_data).to_csv(os.path.join(output_folder, 'bait localization preys.csv'))
+loc_fin = loc_fin.fillna(0)
 loc_fin.to_csv(os.path.join(output_folder,'Results.csv'))
 
 """
